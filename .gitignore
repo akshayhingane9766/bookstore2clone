@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs/slnx.sqlite
+/bookstore2clone/bookstore2clone/obj/Debug/netcoreapp3.1/bookstore2clone.AssemblyInfoInputs.cache
+/bookstore2clone/bookstore2clone/bookstore2clone.csproj
+/bookstore2clone/bookstore2clone/obj/bookstore2clone.csproj.nuget.dgspec.json
+/bookstore2clone/bookstore2clone/obj/bookstore2clone.csproj.nuget.g.props
+/bookstore2clone/bookstore2clone/obj/bookstore2clone.csproj.nuget.g.targets
+/bookstore2clone/bookstore2clone/obj/Debug/netcoreapp3.1/bookstore2clone.assets.cache
+/bookstore2clone/bookstore2clone/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
